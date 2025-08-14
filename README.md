@@ -1,6 +1,5 @@
 # MATLAB Fundamentals
-Based on edX MOOC MatLab Essentials course
-This repository contains a collection of MATLAB Live Scripts and supporting data files designed to demonstrate fundamental MATLAB programming concepts and workflows.
+Based on edX MOOC MatLab Essentials course, this repository contains a collection of MATLAB Live Scripts and supporting data files designed to demonstrate fundamental MATLAB programming concepts and workflows.
 
 ## Repository Structure
 
